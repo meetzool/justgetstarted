@@ -1,0 +1,36 @@
+body{
+    margin:0;
+}
+
+a {
+  text-decoration: none;
+}
+
+header{
+    border-bottom: 1px solid grey;
+    padding-left: 30px;
+}
+
+nav {
+    border-right:1px solid grey;
+    width:250px;
+    height:700px;
+    float:left;
+}
+
+nav ol {
+    margin:0;
+    padding:20px;
+    padding-left:30px;
+    list-style: circle;
+}
+
+li {
+  padding-bottom:3px;
+}
+
+#content {
+    padding-left:20px;
+    float:left;
+    width:600px;
+}
